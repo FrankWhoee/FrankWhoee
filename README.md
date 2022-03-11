@@ -1,6 +1,8 @@
-![](https://raw.githubusercontent.com/FrankWhoee/FrankWhoee.github.io/master/images/landed.svg)
-<!-- # Hi, I'm Frank! 👋 -->
+## Hi, I'm Frank! 👋
 
+I'm an undergraduate studying CS at UBC. I'm always making new projects, check out my pinned repositories for some highlights or you can see all of my projects— successful and unsuccessful—in my repositories.
+
+I have my own website too! Check it out: [frankwhoee.com](https://frankwhoee.com)
 <!--
 **FrankWhoee/FrankWhoee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
